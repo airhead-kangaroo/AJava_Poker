@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPoker</string>
+    <string name="userTurnMsg">のターンです。交換するカードを選択してください</string>
+    <string name="enemyTurnMsg">検討中...</string>
+    <string name="playFirst">が先攻です</string>
+    <string name="goOut">あがり</string>
+</resources>
